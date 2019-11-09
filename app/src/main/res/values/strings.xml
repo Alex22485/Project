@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name" translatable="false">Северный поток</string>
+    <string name="Выберитенаправление" translatable="false">Выберите маршрут</string>
+    <string name="изАэропорта" translatable="false">Домой из Аэропорта</string>
+    <string name="вАэропорт" translatable="false">В аэропорт, на Вахту</string>
+    <string name="Автовокзал" translatable="false">Автовокзал</string>
+    <string name="ЖДвокзал" translatable="false">ЖД вокзал</string>
+    <string name="Красноярск" translatable="false">Красноярск</string>
+    <string name="Канск" translatable="false">Канск. Трасса М153</string>
+    <string name="ненашлинужногомаршрута">Не нашли нужного маршрута?</string>
+    <string name="Автождвокзал" translatable="false">При наборе от 10 человек автомобиль едет без остановок до пункта назначения, сокращая время в пути</string>
+    <string name="Регистрация" translatable="false">Подать заявку и зарегистрироваться</string>
+    <string name="Аэропорт" translatable="false">Аэропорт</string>
+    <string name="Первыймаршрут" translatable="false">Первый маршрут</string>
+    <string name="ДКкрасТЭЦ" translatable="false">ДК КрасТЭЦ</string>
+    <string name="Красраб" translatable="false">Пр-кт им.газеты Красноярский рабочий</string>
+    <string name="Картамаршрута" translatable="false">Посмотреть карту маршрута</string>
+    <string name="Посмотретьвтороймаршрут" translatable="false">Посмотреть второй маршрут</string>
+
+    <string name="Первый5маршрут">1. Аэропорт-КрасТЭЦ</string>
+    <string name="Второй5маршрут">2. Аэропорт-Павлова(Щорса)</string>
+    <string name="Третий5маршрут">3. Аэропорт-Северный</string>
+    <string name="Четвертый5маршрут">4. Аэропорт-Ветлужанка</string>
+    <string name="Карта">Посмотреть карту</string>
+    <string name="Выбратьмаршрут">Выбрать маршрут</string>
+    <string name="ВариантыМаршрутов">Варианты Маршрутов</string>
+
+
+    <string name="one6">Выбран Маршрут №</string>
+    <string name="two6">Строимость проезда,</string>
+    <string name="three6">Рублей</string>
+    <string name="four6">350</string>
+    <string name="Подтвердить">Зарезервировать место</string>
+    <string name="Отменить">Назад к другим вариантам</string>
+    <string name="заказПринят">Заказ принят</string>
+    <string name="заказОтменен">Заказ отменен</string>
+    <string name="Пусто">     </string>
+
+
+    <string name="НазначениеПриложения">Приложение предназначено для работников вылетающих в Игарку из аэропорта Хворостовского(Емельяново)</string>
+    <string name="какработетприложение">Как работает приложение</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
+

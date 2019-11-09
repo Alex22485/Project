@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/about"
+        android:title="@string/какработетприложение" />
+    <item
+        android:id="@+id/registration"
+        android:title="Авторизация">
+    </item>
+    <item
+        android:id="@+id/oders"
+        android:title="История поездок">
+    </item>
+    <item
+        android:id="@+id/carspark"
+        android:title="Автомобили">
+    </item>
+    <item
+        android:id="@+id/legalinformation"
+        android:title="Правовая информация">
+    </item>
+    <item
+        android:id="@+id/license"
+        android:title="Лицензионное соглашение">
+    </item>
+</menu>
